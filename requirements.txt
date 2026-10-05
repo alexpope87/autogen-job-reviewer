@@ -1,0 +1,2 @@
+autogen-agentchat==0.7.5
+autogen-ext[ollama]==0.7.5
